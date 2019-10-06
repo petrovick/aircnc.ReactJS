@@ -1,6 +1,6 @@
 # AirCnC App
 
-App that allows companies to create events and accept/reject developers reservations.
+Real time App that allows companies to create events and accept/reject developers reservations. This app makes use of React Native and Socket.io.
 
 ## Running Project
 
